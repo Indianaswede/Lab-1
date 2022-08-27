@@ -1,7 +1,6 @@
 {
   "name": "lab-1",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -10,7 +9,17 @@
   "author": "Alrik Strömblad",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1",
+    "express": "^4.17.1",
     "mongodb": "^4.9.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indianaswede/Lab-1.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Indianaswede/Lab-1/issues"
+  },
+  "homepage": "https://github.com/Indianaswede/Lab-1#readme",
+  "description": ""
 }
